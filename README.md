@@ -8,7 +8,7 @@
 * Ele tem um menu em que ao precionar qualquer tecla ele é iniciado.
 * Ao iniciar haverá as peças dessendo com uma movimentação pouco fluida e no lado direito terá a previsão da próxima peça.
 
-<img src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris.jpg /> img src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris1.jpg /> img src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris2.jpg />
+<img src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris.jpg /> <img src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris1.jpg /> img <src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris2.jpg />
 
 
 
