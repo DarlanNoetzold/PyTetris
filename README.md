@@ -11,4 +11,6 @@
   <img src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris.jpg" /> <img src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris1.jpg" /> <img src="https://github.com/DarlanNoetzold/PyTetris/blob/master/PyTetris2.jpg" />
    </p>
 
+---
 
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
